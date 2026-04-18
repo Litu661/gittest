@@ -1,0 +1,14 @@
+#gitignore
+# Ignore node_modules
+node_modules/      
+# Ignore build output
+dist/
+
+# Ignore logs
+logs/
+*.log
+# Ignore environment variables
+.env
+# Ignore IDE files
+.vscode/
+.idea/  
